@@ -62,7 +62,7 @@ https://shopi-app.netlify.app/
 
 ### Desktop:
 
-![Apnidukaan Desktop 1](https://res.cloudinary.com/silviajcn/image/upload/v1683673562/PRACTICAS/Varios/Screenshot_2023-05-09_180545_bejdwm.png)
+![Apnidukaan Desktop 1](https://drive.google.com/file/d/1z08xtpKgW1czZt4I-NI2lTp66mALVGVb/view?usp=drive_link))
 
 ![Apnidukaan Desktop 2](https://res.cloudinary.com/silviajcn/image/upload/v1683673611/PRACTICAS/Varios/Screenshot_2023-05-09_180641_rvg3yn.png)
 
